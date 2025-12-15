@@ -6,3 +6,5 @@ scikit-learn
 minisom
 seaborn
 plotly
+
+streamlit run app.py
